@@ -19,16 +19,15 @@
     "#DEV:/",
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/datatables.net/-/datatables.net-1.10.21.tgz",
   "_shasum": "f1d35c8e5c3eb7f5caef39e80cd5b836a8c77103",
-  "_spec": "datatables.net",
+  "_spec": "m-datatable",
   "_where": "/Users/tufancagkansokmen/works/prospectivy-react",
   "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
+    "name": "B166ER Ltd",
+    "url": "http://b166er.co"
   },
   "bugs": {
-    "url": "https://datatables.net/forums"
+    "url": "http://b166er.co"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -39,7 +38,7 @@
   "files": [
     "js/**/*.js"
   ],
-  "homepage": "https://datatables.net",
+  "homepage": "https://b166er.co",
   "keywords": [
     "filter",
     "sort",
@@ -50,7 +49,7 @@
   ],
   "license": "MIT",
   "main": "js/jquery.dataTables.js",
-  "name": "datatables.net",
+  "name": "b166er.co",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/B166ER-Istanbul/m-datatable.git"
