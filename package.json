@@ -1,9 +1,9 @@
 {
-  "_from": "datatables.net",
-  "_id": "datatables.net@1.10.21",
+  "_from": "m-datatable",
+  "_id": "m-datatable@1.10.21",
   "_inBundle": false,
   "_integrity": "sha512-/bSZtxmf3GTpYcvEmwZ8q26I1yhSx8qklR2B+s1K8+/51UW/zc2zTYwJMqr/Z+iCYixAc00ildj4g2x0Qamolw==",
-  "_location": "/datatables.net",
+  "_location": "/m-datatable",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
