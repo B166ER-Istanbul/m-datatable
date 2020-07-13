@@ -1,16 +1,16 @@
 {
-  "_from": "m-datatable",
-  "_id": "m-datatable@1.10.21",
+  "_from": "datatables.net",
+  "_id": "datatables.net@1.10.21",
   "_inBundle": false,
   "_integrity": "sha512-/bSZtxmf3GTpYcvEmwZ8q26I1yhSx8qklR2B+s1K8+/51UW/zc2zTYwJMqr/Z+iCYixAc00ildj4g2x0Qamolw==",
-  "_location": "/m-datatable",
+  "_location": "/datatables.net",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "m-datatable",
-    "name": "m-datatable",
-    "escapedName": "m-datatable",
+    "raw": "datatables.net",
+    "name": "datatables.net",
+    "escapedName": "datatables.net",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -20,7 +20,7 @@
     "#USER"
   ],
   "_shasum": "f1d35c8e5c3eb7f5caef39e80cd5b836a8c77103",
-  "_spec": "m-datatable",
+  "_spec": "datatables.net",
   "_where": "/Users/tufancagkansokmen/works/prospectivy-react",
   "author": {
     "name": "B166ER Ltd",
@@ -49,10 +49,10 @@
   ],
   "license": "MIT",
   "main": "js/jquery.dataTables.js",
-  "name": "m-datatable",
+  "name": "datatables.net",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/B166ER-Istanbul/m-datatable.git"
+    "url": "git+https://github.com/B166ER-Istanbul/datatables.net.git"
   },
   "version": "1.10.21"
 }
