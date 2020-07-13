@@ -19,15 +19,16 @@
     "#DEV:/",
     "#USER"
   ],
+  "_resolved": "https://registry.npmjs.org/datatables.net/-/datatables.net-1.10.21.tgz",
   "_shasum": "f1d35c8e5c3eb7f5caef39e80cd5b836a8c77103",
   "_spec": "datatables.net",
   "_where": "/Users/tufancagkansokmen/works/prospectivy-react",
   "author": {
-    "name": "B166ER Ltd",
-    "url": "http://b166er.co"
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
   },
   "bugs": {
-    "url": "http://b166er.co"
+    "url": "https://datatables.net/forums"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -38,7 +39,7 @@
   "files": [
     "js/**/*.js"
   ],
-  "homepage": "https://b166er.co",
+  "homepage": "https://datatables.net",
   "keywords": [
     "filter",
     "sort",
@@ -52,7 +53,7 @@
   "name": "datatables.net",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/B166ER-Istanbul/datatables.net.git"
+    "url": "git+https://github.com/DataTables/Dist-DataTables.git"
   },
   "version": "1.10.21"
 }
