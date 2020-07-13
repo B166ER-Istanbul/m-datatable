@@ -53,7 +53,7 @@
   "name": "datatables.net",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DataTables/Dist-DataTables.git"
+    "url": "git+https://github.com/B166ER-Istanbul/m-datatable.git"
   },
   "version": "1.10.21"
 }
